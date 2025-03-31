@@ -1,0 +1,1 @@
+gcc src/main.c src/product/product.c src/cart/cart.c -o main && ./main && rm main
